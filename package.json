@@ -1,0 +1,24 @@
+{
+  "name": "shopping-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbikhram/shopping-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbikhram/shopping-app/issues"
+  },
+  "homepage": "https://github.com/tbikhram/shopping-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node": "^9.10.1"
+  }
+}
